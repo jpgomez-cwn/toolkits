@@ -18,11 +18,8 @@ OJBJECTIVE:
 <ul>
     <li> Create an Json capability that APi platform can read. </li>
     <ul>
-       <li> Leverage API Gateway for published service.
-
-       </li>
+       <li> Leverage API Gateway for published service. </li>
     </ul>
 
-    </li>
 </ul>
 </ol>
