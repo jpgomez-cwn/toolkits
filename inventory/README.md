@@ -15,11 +15,10 @@ OJBJECTIVE:
   </ul>
 
 <li> Create method to read the inventory Repository </li>
-<ul>
-    <li> Create an Json capability that APi platform can read. </li>
-    <ul>
-       <li> Leverage API Gateway for published service. </li>
-    </ul>
-
-</ul>
+  <ul>
+      <li> Create an Json capability that APi platform can read. </li>
+      <ul>
+         <li> Leverage API Gateway for published service. </li>
+      </ul>
+  </ul>
 </ol>
