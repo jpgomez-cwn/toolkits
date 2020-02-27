@@ -16,7 +16,7 @@ OJBJECTIVE:
 
 <li> Create method to read the inventory Repository </li>
 <ul>
-    <li> Create an Json capability that APi platform can read.
+    <li> Create an Json capability that APi platform can read. </li>
     <ul>
        <li> Leverage API Gateway for published service.
 
