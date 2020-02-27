@@ -7,8 +7,8 @@ OJBJECTIVE:
 
   <ul>
     <li>Lambda function that creates an inventory file in S3.  </li>
-        <li> Why S3:  Need something that will pass the IT Security standards.  Launching an RDS instance or managing causes to much overhead
-        <li> Define what file format will be used to read inventory  </li>
+        <li Indented item > Why S3:  Need something that will pass the IT Security standards.  Launching an RDS instance or managing causes to much overhead
+        <li Indented item> Define what file format will be used to read inventory  </li>
     <li>Create Lambda function that updates existing file.  </li>
   </ul>
 
